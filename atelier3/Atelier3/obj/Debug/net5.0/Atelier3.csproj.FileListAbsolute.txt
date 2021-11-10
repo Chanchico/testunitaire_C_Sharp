@@ -1,0 +1,16 @@
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3.deps.json
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3.runtimeconfig.json
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3.runtimeconfig.dev.json
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3.dll
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/ref/Atelier3.dll
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/bin/Debug/net5.0/Atelier3.pdb
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.csproj.AssemblyReference.cache
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.AssemblyInfoInputs.cache
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.AssemblyInfo.cs
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.dll
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/ref/Atelier3.dll
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.pdb
+/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/Debug/net5.0/Atelier3.genruntimeconfig.cache
