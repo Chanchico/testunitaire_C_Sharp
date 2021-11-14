@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/francisco/.nuget/packages/": {}
+    "C:\\Users\\33622\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/Atelier3.csproj",
+      "projectUniqueName": "D:\\Documents\\Cours\\CSharp\\testunitaire_C_Sharp\\atelier3\\Atelier3\\Atelier3.csproj",
       "projectName": "Atelier3",
-      "projectPath": "/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/Atelier3.csproj",
-      "packagesPath": "/home/francisco/.nuget/packages/",
-      "outputPath": "/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/obj/",
+      "projectPath": "D:\\Documents\\Cours\\CSharp\\testunitaire_C_Sharp\\atelier3\\Atelier3\\Atelier3.csproj",
+      "packagesPath": "C:\\Users\\33622\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Cours\\CSharp\\testunitaire_C_Sharp\\atelier3\\Atelier3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/francisco/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\33622\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -53,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
