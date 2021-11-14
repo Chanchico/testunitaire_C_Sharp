@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mjp/Wf7BTRx3mz8wwK0LJukqdoNCVmHekpXQ97TC2xrpufgvBw8Q4jXHtmC/eS+gWgsQz0bqC31a9zIt7JKT7w==",
+  "dgSpecHash": "p+hDbQG11eoU9fhZqhvzZ4x2XZH1jSW/yi+MNyLfqPV2w3LEf8qCQ36kiY7nnin3iHNPz+InEj2UO/9BQDs5uw==",
   "success": true,
-  "projectFilePath": "/home/francisco/Documents/cours/c sharp/testunitaire_C_Sharp/atelier3/Atelier3/Atelier3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Documents\\Cours\\CSharp\\testunitaire_C_Sharp\\atelier3\\Atelier3\\Atelier3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33622\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\33622\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\33622\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\33622\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

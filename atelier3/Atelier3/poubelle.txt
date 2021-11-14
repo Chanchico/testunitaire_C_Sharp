@@ -1,0 +1,61 @@
+ string[] lettre = {
+            "un",           //0
+            "une",          //1    
+            "deux",         //2   
+            "trois",        //3     
+            "quatre",       //4    
+            "cinq",         //5
+            "six",          //6
+            "sept",         //7    
+            "huit",         //8   
+            "neuf",         //9
+            "dix",          //10
+            "onze",         //11    
+            "midi",         //12
+            "minuit",       //13
+            "onze",         //14
+            "douze",        //15
+            "treize",       //16
+            "quatorze",     //17
+            "moins quart",  //18
+            "et quart",     //19
+            "seize",        //20
+            "vingt",        //21
+            "trente",       //22
+            "quarante",     //23
+            "cinquante"     //24
+        };
+
+
+ public  string generateOutputFinal(int heure, int minute){
+            string minuteString;
+            string heureString;
+            string liant = "";
+            string moment = "du matin";
+            int heureTmp = heure; // Variable temporaire 
+            int minuteTmp = minute;// Variable temporaire
+            if ( minute >= 35 ){
+                heureTmp ++;
+            }
+            if (minute > 35){
+                minute = 60 - minute;
+                liant = "moins";
+            }
+            if ( heure > 12){
+                heureTmp -= 12;
+                moment = "de l'après midi";
+            }
+            if (minute > 16 || minute < 35){
+                int reste = minute % 10;
+                int dixaine = (minute / 10) * 10;
+                minuteString = Dico[dixaine] + Dico[reste];
+            }
+            else{
+                minuteString = Dico[minute];
+            }
+            
+            heureString = Dico[heureTmp];
+            
+            return "Il est " + heureString + "heure " + liant + " " + minuteString + moment;
+        }
+    }
